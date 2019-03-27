@@ -8,7 +8,7 @@ Email：zack@grossbart.com
 
 TEl: +1 514889235
 
-![image](https://github.com/MMK460/SY-Blocks/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-03-11%20at%2016.12.01.png)
+![image](https://github.com/MMK460/PyramidBuilder/blob/master/icon-50.png)
 
 
 # 2.【How to Play】
