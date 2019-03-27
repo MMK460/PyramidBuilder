@@ -8,7 +8,7 @@ Email：zack@grossbart.com
 
 TEl: +1 514889235
 
-![image](https://github.com/MMK460/PyramidBuilder/blob/master/icon-50.png)
+![image](https://github.com/MMK460/PyramidBuilder/blob/master/icon-60%402x.png)
 
 
 # 2.【How to Play】
